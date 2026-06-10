@@ -1,0 +1,6 @@
+{
+  "name": "Rafael Almeida Imóveis",
+  "description": "Premium real estate broker template for Rafael Almeida in Nova Iguaçu and surrounding regions. Clean, high-conversion design with direct WhatsApp integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
